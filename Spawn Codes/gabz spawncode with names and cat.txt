@@ -52,16 +52,19 @@ Spawn Code: gbturismogt Brand: Grotti Name: Turismo GT Category: Sports Classic
 Spawn Code: gbturismogts Brand: Grotti Name: Turismo GTS Category: Sports Classic
 Spawn Code: gbvivant Brand: Bordeaux Name: Vivant Category: Compacts
 Spawn Code: gbvivantgrb Brand: Bordeaux Name: Vivant GRB Category: Sports
+
 Spawn Code: gbtaxiargento7f Brand: Obey Name: Argento 7F Taxi Category: Service 
 Spawn Code: gbtaxieon Brand: Coil Name: Eon Taxi Category: Service
 Spawn Code: gbtaxistanierle Brand: Vapid Name: Stainer LE Taxi Category: Service
 Spawn Code: gbtaxistarlight Brand: Vulcar Name: Starlight Taxi Category: Service
+
 Spawn Code: gbvoyager Brand: MTL Name: Voyager 6x4-T Category: Commercial
 Spawn Code: gbvoyager2 Brand: MTL Name: Voyager 4x2-T  Category: Commercial
 Spawn Code: gbvoyagerb Brand: MTL Name: Voyager 6x4-B Category: Commercial
 Spawn Code: gbvoyagerb2 Brand: MTL Name: Voyager 4x2-B Category: Commercial
 Spawn Code: gbvoyagerg Brand: MTL Name: Voyager Trash Truck Category: Service
 Spawn Code: gbvoyagerh Brand: MTL Name: Voyager 6x2-H Category: Commercial
+
 Spawn Code: gbemsbisonstx Brand: Bravado Name: Bison STX Ambolance Category: Emergency
 Spawn Code: gbemsesperta Brand: Bravado Name: Esperta Ambulance Category: Emergency
 Spawn Code: gbfirevoyager Brand: MTL Name: Voyager Fire Truck Category: Emergency
