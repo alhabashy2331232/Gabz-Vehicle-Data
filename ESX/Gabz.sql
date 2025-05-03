@@ -1,5 +1,4 @@
 INSERT INTO vehicle_categories (name, label) VALUES
-('gabz', 'Gabz')
 ('super', 'Super'),
 ('sedans', 'Sedans'),
 ('offroad', 'Offroad'),
