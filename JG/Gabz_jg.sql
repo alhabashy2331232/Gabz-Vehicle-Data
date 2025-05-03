@@ -1,4 +1,4 @@
--- Dumping structure for table qboxproject_6c3fdb.dealership_vehicles
+
 CREATE TABLE IF NOT EXISTS `dealership_vehicles` (
   `spawn_code` varchar(100) NOT NULL,
   `brand` varchar(255) DEFAULT NULL,
@@ -10,7 +10,6 @@ CREATE TABLE IF NOT EXISTS `dealership_vehicles` (
   PRIMARY KEY (`spawn_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
 
--- Dumping data for table qboxproject_6c3fdb.dealership_vehicles: ~944 rows (approximately)
 INSERT IGNORE INTO `dealership_vehicles` (`spawn_code`, `brand`, `model`, `hashkey`, `category`, `price`, `created_at`) VALUES
 	('adder', 'Truffade', 'Adder', '-1216765807', 'super', 86065, '2024-12-25 19:57:42'),
 	('airbus', '', 'Airport Bus', '1283517198', 'service', 42321, '2024-12-25 19:57:40'),
