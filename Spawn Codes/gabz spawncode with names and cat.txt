@@ -19,7 +19,7 @@ Spawn Code: gbesperta Brand: Bravado Name: Esperta Category:Vans
 Spawn Code: gbgresleystx Brand: Bravado Name: Gresley STX Category: SUV
 Spawn Code: gbhades Brand: Dundreary Name: Hades Category: Muscle
 Spawn Code: gbharmann Brand: Benefactor Name: Harmann Category: Sedans
-Spawn Code: gbimpaler Brand: Declasse Name: Imapaler Category: 
+Spawn Code: gbimpaler Brand: Declasse Name: Imapaler Category: Sedans
 Spawn Code: gbirisz Brand: Bollokan Name: Iris Z Category: Compacts
 Spawn Code: gbissimetro Brand: Weeny Name: Issi Metro Category: Compacts
 Spawn Code: gbkomodagt Brand: Lampadati Name: Komoda GT Category: Sports Classic
