@@ -1,4 +1,4 @@
-INSERT INTO vehicle_categories (name, label) VALUES
+INSERT IGNORE INTO vehicle_categories (name, label) VALUES -- Add the IGNORE because you're using a primary key constraint which doesnt allow duplicates.
 ('super', 'Super'),
 ('sedans', 'Sedans'),
 ('offroad', 'Offroad'),
@@ -75,7 +75,7 @@ INSERT INTO vehicles (name, model, price, category) VALUES
 ('gbvoyagerb', 'gbvoyagerb', 140000, 'commercial'),
 ('gbvoyagerb2', 'gbvoyagerb2', 145000, 'commercial'),
 ('gbvoyagerg', 'gbvoyagerg', 150000, 'service'),
-('gbfirevoyager', 'gbfirevoyager', 155000, 'emergency')
+('gbfirevoyager', 'gbfirevoyager', 155000, 'emergency'),
 ('gbadmiral', 'gbadmiral', 125000, 'sedans'),
 ('gbemerussb1', 'gbemerussb1', 175000, 'super'),
 ('gbgresleystx', 'gbgresleystx', 145000, 'suv'),
@@ -94,4 +94,3 @@ INSERT INTO vehicles (name, model, price, category) VALUES
 ('gbvivantgrb', 'gbvivantgrb', 145000, 'sports'),
 ('gbvoyagerh', 'gbvoyagerh', 140000, 'commercial'),
 ('gbemsesperta', 'gbemsesperta', 150000, 'emergency');
-
