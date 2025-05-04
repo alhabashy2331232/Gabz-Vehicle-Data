@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS `dealership_vehicles` (
   PRIMARY KEY (`spawn_code`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
 
-INSERT IGNORE INTO `dealership_vehicles` (`spawn_code`, `brand`, `model`, `hashkey`, `category`, `price`, `created_at`) VALUES
+INSERT INTO `dealership_vehicles` (`spawn_code`, `brand`, `model`, `hashkey`, `category`, `price`, `created_at`) VALUES
 	('gb200', 'Vapid', 'GB 200', '1909189272', 'sports', 74534, '2024-12-25 19:57:40'),
 	('gb811s2', 'PFISTER', 'gb811s2', 'gb811s2', 'sports', 0, '2024-12-25 19:57:42'),
 	('gbadmiral', 'nill', 'gbadmiral', 'gbadmiral', 'nill', 0, '2025-04-04 22:09:26'),
