@@ -245,7 +245,7 @@ return {
         brand = 'Declasse',
         model = 'gbimpaler',
         price = 5000,
-        category = 'nil',
+        category = 'Sedans',
         type = 'automobile',
         hash = `gbimpaler`,
     },
