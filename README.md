@@ -15,7 +15,7 @@ This repository contains preconfigured vehicle shop data for Gabz vehicles in Fi
   - And more...
 
 ## Compatibility
-- Designed for QBox, QB, ESX and others
+- Data for QBox, QB, ESX and others
 - Includes proper categorization for all Gabz vehicle models
 
 ## Contents
