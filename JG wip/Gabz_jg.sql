@@ -1,3 +1,11 @@
+/*
+IMPORTANT: After importing this SQL file:
+1. Join the server as an admin
+2. Use command /dealeradmin in-game
+3. Set prices and shop for all vehicles through the dealer admin menu
+4. Make sure to save changes after setting prices
+*/
+
 INSERT INTO `dealership_vehicles` (`spawn_code`, `brand`, `model`, `hashkey`, `category`, `price`, `created_at`) VALUES
 	('gb811s2', 'PFISTER', 'gb811s2', 'gb811s2', 'sports', 0, '2024-12-25 19:57:42'),
 	('gbadmiral', 'nill', 'gbadmiral', 'gbadmiral', 'nill', 0, '2025-04-04 22:09:26'),
