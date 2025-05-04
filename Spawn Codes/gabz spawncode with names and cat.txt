@@ -1,70 +1,92 @@
+-- Super Cars
 Spawn Code: gb811s2 Brand: Pfister Name: 811 S2 Category: Super
+Spawn Code: gbbanshees Brand: Bravado Name: Banshee S Category: Super
+Spawn Code: gbemerussb1 Brand: Progen Name: Emerus SB1 Category: Super
+Spawn Code: gbprospero Brand: Pegassi Name: Prospero Category: Super
+Spawn Code: gbtr3s Brand: Progen Name: TR3-S Category: Super
+
+-- Sedans
 Spawn Code: gbadmiral Brand: Dundreary Name: Admiral Category: Sedans
 Spawn Code: gbargento7f Brand: Obey Name: Argento 7F Category: Sedans
-Spawn Code: gbbanshees Brand: Bravado Name: Banshee S Category: Super
-Spawn Code: gbbisonhf Brand: Bravado Name: Bison HF Category: Offroad
-Spawn Code: gbbisonstx Brand: Bravado Name: Bison STX Category:Vans 
-Spawn Code: gbboxboy Brand: Brute Name: Boxboy Category: Vans
-Spawn Code: gbboxboyft Brand: Brute Name: Boxboy Food Truck Category: Vans
-Spawn Code: gbbriosof Brand: Grotti Name: Brioso Fulmine Category: Compacts
-Spawn Code: gbclubxr Brand: BF Name: Club XR Category: Compacts
-Spawn Code: gbcometcl Brand: Pfister Name: Comet Classic Category: Sports Classic
-Spawn Code: gbcomets1t Brand: Pfister Name: Comet S1 Turbo Category: Sports Classic
-Spawn Code: gbcomets2r Brand: Pfister Name: Comet S2R Category: Sports
-Spawn Code: gbcomets2rc Brand: Pfister Name: Comet S2R C Category: Sports
-Spawn Code: gbdominatorgsx Brand: Vapid Name: Dominator GSX Category: Muscle
-Spawn Code: gbemerussb1 Brand: Progen Name: Emerus SB1 Category: Super
-Spawn Code: gbeon Brand: Coil Name: Eon Category: Sports
-Spawn Code: gbesperta Brand: Bravado Name: Esperta Category:Vans 
-Spawn Code: gbgresleystx Brand: Bravado Name: Gresley STX Category: SUV
-Spawn Code: gbhades Brand: Dundreary Name: Hades Category: Muscle
 Spawn Code: gbharmann Brand: Benefactor Name: Harmann Category: Sedans
 Spawn Code: gbimpaler Brand: Declasse Name: Imapaler Category: Sedans
-Spawn Code: gbirisz Brand: Bollokan Name: Iris Z Category: Compacts
-Spawn Code: gbissimetro Brand: Weeny Name: Issi Metro Category: Compacts
-Spawn Code: gbkomodagt Brand: Lampadati Name: Komoda GT Category: Sports Classic
-Spawn Code: gblod4 Brand: Coil Name: LOD 4 Category: Offroad
+Spawn Code: gbstanierle Brand: Vapid Name: Stainer LE Category: Sedans
+
+-- Sports Cars
+Spawn Code: gbcomets2r Brand: Pfister Name: Comet S2R Category: Sports
+Spawn Code: gbcomets2rc Brand: Pfister Name: Comet S2R C Category: Sports
+Spawn Code: gbeon Brand: Coil Name: Eon Category: Sports
 Spawn Code: gbmilano Brand: Grotti Name: Milano Category: Sports
 Spawn Code: gbmogulrs Brand: Karin Name: Mogul RS Category: Sports
-Spawn Code: gbmojave Brand: Karin Name: Mojave Category: Offroad
-Spawn Code: gbneonct Brand: Pfister Name: Neon CT Category: ,Sports
+Spawn Code: gbneonct Brand: Pfister Name: Neon CT Category: Sports
 Spawn Code: gbnexusrr Brand: Dinka Name: Nesus RR Category: Sports
-Spawn Code: gbprospero Brand: Pegassi Name: Prospero Category: Super
-Spawn Code: gbraidillon Brand: Toundra Name: Raidillon Category: Sports Classic
 Spawn Code: gbronin Brand: Emperor Name: Ronin Category: Sports
-Spawn Code: gbsapphire Brand: Enus Name: Sapphire Category: Coupes
 Spawn Code: gbschlagenr Brand: Benefactor Name: Schlagen-R Category: Sports
 Spawn Code: gbschlagensp Brand: Benefactor Name: Schlagen-SP Category: Sports
 Spawn Code: gbschrauber Brand: Benefactor Name: Schrauber Category: Sports
 Spawn Code: gbschwartzers Brand: Benefactor Name: Schwartzer S Category: Sports
 Spawn Code: gbsentinelgts Brand: Ubermacht Name: Senrinel GTS Category: Sports
-Spawn Code: gbsidewinder Brand: Maxwell Name: Sidewinder Category: Sports Classic
 Spawn Code: gbsolace Brand: Dewbauchee Name: Solace Category: Sports
 Spawn Code: gbsolacev Brand: Dewbauchee Name: Solace Vitesse Category: Sports
-Spawn Code: gbstanierle Brand: Vapid Name: Stainer LE Category: Sedans
-Spawn Code: gbstarlight Brand: Vulcar Name: Starlight Category: SUV
 Spawn Code: gbsultanrsx Brand: Karin Name: Sultan RSX Category: Sports
-Spawn Code: gbtahomagt Brand: Declasse Name: Tahoma GT Category: Muscle
 Spawn Code: gbtenfr Brand: Obey Name: Tenf R Category: Sports
-Spawn Code: gbterrorizer Brand: HVY Name: Terrorizer Category: Offroad
-Spawn Code: gbtr3s Brand: Progen Name: TR3-S Category: Super
-Spawn Code: gbturismogt Brand: Grotti Name: Turismo GT Category: Sports Classic
-Spawn Code: gbturismogts Brand: Grotti Name: Turismo GTS Category: Sports Classic
-Spawn Code: gbvivant Brand: Bordeaux Name: Vivant Category: Compacts
 Spawn Code: gbvivantgrb Brand: Bordeaux Name: Vivant GRB Category: Sports
 
-Spawn Code: gbtaxiargento7f Brand: Obey Name: Argento 7F Taxi Category: Service 
+-- Sports Classics
+Spawn Code: gbcometcl Brand: Pfister Name: Comet Classic Category: Sports Classic
+Spawn Code: gbcomets1t Brand: Pfister Name: Comet S1 Turbo Category: Sports Classic
+Spawn Code: gbkomodagt Brand: Lampadati Name: Komoda GT Category: Sports Classic
+Spawn Code: gbraidillon Brand: Toundra Name: Raidillon Category: Sports Classic
+Spawn Code: gbsidewinder Brand: Maxwell Name: Sidewinder Category: Sports Classic
+Spawn Code: gbturismogt Brand: Grotti Name: Turismo GT Category: Sports Classic
+Spawn Code: gbturismogts Brand: Grotti Name: Turismo GTS Category: Sports Classic
+
+-- Muscle
+Spawn Code: gbdominatorgsx Brand: Vapid Name: Dominator GSX Category: Muscle
+Spawn Code: gbhades Brand: Dundreary Name: Hades Category: Muscle
+Spawn Code: gbtahomagt Brand: Declasse Name: Tahoma GT Category: Muscle
+
+-- Compacts
+Spawn Code: gbbriosof Brand: Grotti Name: Brioso Fulmine Category: Compacts
+Spawn Code: gbclubxr Brand: BF Name: Club XR Category: Compacts
+Spawn Code: gbirisz Brand: Bollokan Name: Iris Z Category: Compacts
+Spawn Code: gbissimetro Brand: Weeny Name: Issi Metro Category: Compacts
+Spawn Code: gbvivant Brand: Bordeaux Name: Vivant Category: Compacts
+
+-- SUVs
+Spawn Code: gbgresleystx Brand: Bravado Name: Gresley STX Category: SUV
+Spawn Code: gbstarlight Brand: Vulcar Name: Starlight Category: SUV
+
+-- Coupes
+Spawn Code: gbsapphire Brand: Enus Name: Sapphire Category: Coupes
+
+-- Vans
+Spawn Code: gbbisonstx Brand: Bravado Name: Bison STX Category: Vans
+Spawn Code: gbboxboy Brand: Brute Name: Boxboy Category: Vans
+Spawn Code: gbboxboyft Brand: Brute Name: Boxboy Food Truck Category: Vans
+Spawn Code: gbesperta Brand: Bravado Name: Esperta Category: Vans
+
+-- Offroad
+Spawn Code: gbbisonhf Brand: Bravado Name: Bison HF Category: Offroad
+Spawn Code: gblod4 Brand: Coil Name: LOD 4 Category: Offroad
+Spawn Code: gbmojave Brand: Karin Name: Mojave Category: Offroad
+Spawn Code: gbterrorizer Brand: HVY Name: Terrorizer Category: Offroad
+
+-- Service Vehicles
+Spawn Code: gbtaxiargento7f Brand: Obey Name: Argento 7F Taxi Category: Service
 Spawn Code: gbtaxieon Brand: Coil Name: Eon Taxi Category: Service
 Spawn Code: gbtaxistanierle Brand: Vapid Name: Stainer LE Taxi Category: Service
 Spawn Code: gbtaxistarlight Brand: Vulcar Name: Starlight Taxi Category: Service
+Spawn Code: gbvoyagerg Brand: MTL Name: Voyager Trash Truck Category: Service
 
+-- Commercial
 Spawn Code: gbvoyager Brand: MTL Name: Voyager 6x4-T Category: Commercial
-Spawn Code: gbvoyager2 Brand: MTL Name: Voyager 4x2-T  Category: Commercial
+Spawn Code: gbvoyager2 Brand: MTL Name: Voyager 4x2-T Category: Commercial
 Spawn Code: gbvoyagerb Brand: MTL Name: Voyager 6x4-B Category: Commercial
 Spawn Code: gbvoyagerb2 Brand: MTL Name: Voyager 4x2-B Category: Commercial
-Spawn Code: gbvoyagerg Brand: MTL Name: Voyager Trash Truck Category: Service
 Spawn Code: gbvoyagerh Brand: MTL Name: Voyager 6x2-H Category: Commercial
 
+-- Emergency Vehicles
 Spawn Code: gbemsbisonstx Brand: Bravado Name: Bison STX Ambolance Category: Emergency
 Spawn Code: gbemsesperta Brand: Bravado Name: Esperta Ambulance Category: Emergency
 Spawn Code: gbfirevoyager Brand: MTL Name: Voyager Fire Truck Category: Emergency
