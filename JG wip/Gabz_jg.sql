@@ -1,15 +1,3 @@
-
-CREATE TABLE IF NOT EXISTS `dealership_vehicles` (
-  `spawn_code` varchar(100) NOT NULL,
-  `brand` varchar(255) DEFAULT NULL,
-  `model` varchar(255) DEFAULT NULL,
-  `hashkey` varchar(100) DEFAULT NULL,
-  `category` varchar(100) NOT NULL,
-  `price` float NOT NULL,
-  `created_at` datetime NOT NULL DEFAULT current_timestamp(),
-  PRIMARY KEY (`spawn_code`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3 COLLATE=utf8mb3_general_ci;
-
 INSERT INTO `dealership_vehicles` (`spawn_code`, `brand`, `model`, `hashkey`, `category`, `price`, `created_at`) VALUES
 	('gb200', 'Vapid', 'GB 200', '1909189272', 'sports', 74534, '2024-12-25 19:57:40'),
 	('gb811s2', 'PFISTER', 'gb811s2', 'gb811s2', 'sports', 0, '2024-12-25 19:57:42'),
