@@ -1,5 +1,5 @@
 # Vehicle-Shop-Gabz
-Vehicle Shop data for Gabz Vehicles in FiveM
+Vehicle Shop data for [Gabz Vehicles](https://fivem.gabzv.com/) in FiveM
 
 ## Description
 This repository contains preconfigured vehicle shop data for Gabz vehicles in FiveM. It includes:
