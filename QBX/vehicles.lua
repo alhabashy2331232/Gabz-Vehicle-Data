@@ -1,6 +1,5 @@
 return {
     gb811s2 = {
-        spawnName = 'gb811s2',
         name = '811 S2',
         brand = 'Pfister', 
         model = 'gb811s2',
@@ -10,7 +9,6 @@ return {
         hash = `gb811s2`,
     },
     gbadmiral = {
-        spawnName = 'gbadmiral',
         name = 'Admiral',
         brand = 'Dundreary', 
         model = 'gbadmiral',
@@ -20,7 +18,6 @@ return {
         hash = `gbadmiral`,
     },
     gbargento7f = {
-        spawnName = 'gbargento7f',
         name = 'Argento 7F',
         brand = 'Obey', 
         model = 'gbargento7f',
@@ -30,7 +27,6 @@ return {
         hash = `gbargento7f`,
     },
     gbbanshees = {
-        spawnName = 'gbbanshees',
         name = 'Banshee S',
         brand = 'Bravado', 
         model = 'gbbanshees',
@@ -40,7 +36,6 @@ return {
         hash = `gbbanshees`,
     },
     gbbisonhf = {
-        spawnName = 'gbbisonhf',
         name = 'Bison HF',
         brand = 'Bravado', 
         model = 'gbbisonhf',
@@ -50,7 +45,6 @@ return {
         hash = `gbbisonhf`,
     },
     gbbisonstx = {
-        spawnName = 'gbbisonstx',
         name = 'Bison STX',
         brand = 'Bravado', 
         model = 'gbbisonstx',
@@ -60,7 +54,6 @@ return {
         hash = `gbbisonstx`,
     },
     gbboxboy = {
-        spawnName = 'gbboxboy',
         name = 'Boxboy',
         brand = 'Brute', 
         model = 'gbboxboy',
@@ -70,7 +63,6 @@ return {
         hash = `gbboxboy`,
     },
     gbboxboyft = {
-        spawnName = 'gbboxboyft',
         name = 'Boxboy Food Truck',
         brand = 'Brute', 
         model = 'gbboxboyft',
@@ -80,7 +72,6 @@ return {
         hash = `gbboxboyft`,
     },
     gbbriosof = {
-        spawnName = 'gbbriosof',
         name = 'Brioso Fulmine',
         brand = 'Grotti', 
         model = 'gbbriosof',
@@ -90,7 +81,6 @@ return {
         hash = `gbbriosof`,
     },
     gbclubxr = {
-        spawnName = 'gbclubxr',
         name = 'Club XR',
         brand = 'BF', 
         model = 'gbclubxr',
@@ -100,7 +90,6 @@ return {
         hash = `gbclubxr`,
     },
     gbcometcl = {
-        spawnName = 'gbcometcl',
         name = 'Comet Classic',
         brand = 'Pfister', 
         model = 'gbcometcl',
@@ -110,7 +99,6 @@ return {
         hash = `gbcometcl`,
     },
     gbcomets1t = {
-        spawnName = 'gbcomets1t',
         name = 'Comet S1 Turbo',
         brand = 'Pfister', 
         model = 'gbcomets1t',
@@ -120,7 +108,6 @@ return {
         hash = `gbcomets1t`,
     },
     gbcomets2r = {
-        spawnName = 'gbcomets2r',
         name = 'Comet S2R',
         brand = 'Pfister', 
         model = 'gbcomets2r',
@@ -130,7 +117,6 @@ return {
         hash = `gbcomets2r`,
     },
     gbcomets2rc = {
-        spawnName = 'gbcomets2rc',
         name = 'Comet S2R C',
         brand = 'Pfister', 
         model = 'gbcomets2rc',
@@ -140,7 +126,6 @@ return {
         hash = `gbcomets2rc`,
     },
     gbdominatorgsx = {
-        spawnName = 'gbdominatorgsx',
         name = 'Dominator GSX',
         brand = 'Vapid', 
         model = 'gbdominatorgsx',
@@ -150,7 +135,6 @@ return {
         hash = `gbdominatorgsx`,
     },
     gbemerussb1 = {
-        spawnName = 'gbemerussb1',
         name = 'Emerus SB1',
         brand = 'Progen', 
         model = 'gbemerussb1',
@@ -160,7 +144,6 @@ return {
         hash = `gbemerussb1`,
     },
     gbemsbisonstx = {
-        spawnName = 'gbemsbisonstx',
         name = 'Bison STX Ambolance',
         brand = 'Bravado', 
         model = 'gbemsbisonstx',
@@ -170,7 +153,6 @@ return {
         hash = `gbemsbisonstx`,
     },
     gbemsesperta = {
-        spawnName = 'gbemsesperta',
         name = 'Esperta Ambulance',
         brand = 'Bravado', 
         model = 'gbemsesperta',
@@ -180,7 +162,6 @@ return {
         hash = `gbemsesperta`,
     },
     gbeon = {
-        spawnName = 'gbeon',
         name = 'Eon',
         brand = 'Coil', 
         model = 'gbeon',
@@ -190,7 +171,6 @@ return {
         hash = `gbeon`,
     },
     gbesperta = {
-        spawnName = 'gbesperta',
         name = 'Esperta',
         brand = 'Bravado', 
         model = 'gbesperta',
@@ -200,7 +180,6 @@ return {
         hash = `gbesperta`,
     },
     gbfirevoyager = {
-        spawnName = 'gbfirevoyager',
         name = 'Voyager Fire Truck',
         brand = 'MTL', 
         model = 'gbfirevoyager',
@@ -210,7 +189,6 @@ return {
         hash = `gbfirevoyager`,
     },
     gbgresleystx = {
-        spawnName = 'gbgresleystx',
         name = 'Gresley STX',
         brand = 'Bravado', 
         model = 'gbgresleystx',
@@ -220,7 +198,6 @@ return {
         hash = `gbgresleystx`,
     },
     gbhades = {
-        spawnName = 'gbhades',
         name = 'Hades',
         brand = 'Dundreary',
         model = 'gbhades',
@@ -230,7 +207,6 @@ return {
         hash = `gbhades`,
     },
     gbharmann = {
-        spawnName = 'gbharmann',
         name = 'Harmann',
         brand = 'Benefactor',
         model = 'gbharmann',
@@ -240,7 +216,6 @@ return {
         hash = `gbharmann`,
     },
     gbimpaler = {
-        spawnName = 'gbimpaler',
         name = 'Imapaler',
         brand = 'Declasse',
         model = 'gbimpaler',
@@ -250,7 +225,6 @@ return {
         hash = `gbimpaler`,
     },
     gbirisz = {
-        spawnName = 'gbirisz',
         name = 'Iris Z',
         brand = 'Bollokan', 
         model = 'gbirisz',
@@ -260,7 +234,6 @@ return {
         hash = `gbirisz`,
     },
     gbissimetro = {
-        spawnName = 'gbissimetro',
         name = 'Issi Metro',
         brand = 'Weeny',
         model = 'gbissimetro',
@@ -270,7 +243,6 @@ return {
         hash = `gbissimetro`,
     },
     gbkomodagt = {
-        spawnName = 'gbkomodagt',
         name = 'Komoda GT',
         brand = 'Lampadati', 
         model = 'gbkomodagt',
@@ -280,7 +252,6 @@ return {
         hash = `gbkomodagt`,
     },
     gblod4 = {
-        spawnName = 'gblod4',
         name = 'LOD 4',
         brand = 'Coil', 
         model = 'gblod4',
@@ -290,7 +261,6 @@ return {
         hash = `gblod4`,
     },
     gbmilano = {
-        spawnName = 'gbmilano',
         name = 'Milano',
         brand = 'Grotti', 
         model = 'gbmilano',
@@ -300,7 +270,6 @@ return {
         hash = `gbmilano`,
     },
     gbmogulrs = {
-        spawnName = 'gbmogulrs',
         name = 'Mogul RS',
         brand = 'Karin', 
         model = 'gbmogulrs',
@@ -310,7 +279,6 @@ return {
         hash = `gbmogulrs`,
     },
     gbmojave = {
-        spawnName = 'gbmojave',
         name = 'Mojave',
         brand = 'Karin', 
         model = 'gbmojave',
@@ -320,7 +288,6 @@ return {
         hash = `gbmojave`,
     },
     gbneonct = {
-        spawnName = 'gbneonct',
         name = 'Neon CT',
         brand = 'Pfister', 
         model = 'gbneonct',
@@ -330,7 +297,6 @@ return {
         hash = `gbneonct`,
     },
     gbnexusrr = {
-        spawnName = 'gbnexusrr',
         name = 'Nesus RR',
         brand = 'Dinka', 
         model = 'gbnexusrr',
@@ -340,7 +306,6 @@ return {
         hash = `gbnexusrr`,
     },
     gbpolbisonhf = {
-        spawnName = 'gbpolbisonhf',
         name = 'Bison HF Police',
         brand = 'Bravado', 
         model = 'gbpolbisonhf',
@@ -350,7 +315,6 @@ return {
         hash = `gbpolbisonhf`,
     },
     gbpolbisonstx = {
-        spawnName = 'gbpolbisonstx',
         name = 'Bison STX Police',
         brand = 'Bravado',
         model = 'gbpolbisonstx',
@@ -360,7 +324,6 @@ return {
         hash = `gbpolbisonstx`,
     },
     gbpolcometcl = {
-        spawnName = 'gbpolcometcl',
         name = 'Comet Classic Police',
         brand = 'Pfister', 
         model = 'gbpolcometcl',
@@ -370,7 +333,6 @@ return {
         hash = `gbpolcometcl`,
     },
     gbpolcomets2r = {
-        spawnName = 'gbpolcomets2r',
         name = 'Comet S2R Police',
         brand = 'Pfister', 
         model = 'gbpolcomets2r',
@@ -380,7 +342,6 @@ return {
         hash = `gbpolcomets2r`,
     },
     gbpoldominatorgsx = {
-        spawnName = 'gbpoldominatorgsx',
         name = 'Dominator GSX Police',
         brand = 'Vapid',
         model = 'gbpoldominatorgsx',
@@ -390,7 +351,6 @@ return {
         hash = `gbpoldominatorgsx`,
     },
     gbpolprospero = {
-        spawnName = 'gbpolprospero',
         name = 'Prospero Police',
         brand = 'Pegassi', 
         model = 'gbpolprospero',
@@ -400,7 +360,6 @@ return {
         hash = `gbpolprospero`,
     },
     gbpolsolace = {
-        spawnName = 'gbpolsolace',
         name = 'Solace Police',
         brand = 'Dewbauchee', 
         model = 'gbpolsolace',
@@ -410,7 +369,6 @@ return {
         hash = `gbpolsolace`,
     },
     gbpolstanierle = {
-        spawnName = 'gbpolstanierle',
         name = 'Stainer LE Police',
         brand = 'Vapid',
         model = 'gbpolstanierle',
@@ -420,7 +378,6 @@ return {
         hash = `gbpolstanierle`,
     },
     gbpolstarlight = {
-        spawnName = 'gbpolstarlight',
         name = 'Starlight Police',
         brand = 'Vulcar', 
         model = 'gbpolstarlight',
@@ -430,7 +387,6 @@ return {
         hash = `gbpolstarlight`,
     },
     gbpolsultanrsx = {
-        spawnName = 'gbpolsultanrsx',
         name = 'Sultan RSX Police',
         brand = 'Karin',
         model = 'gbpolsultanrsx',
@@ -440,7 +396,6 @@ return {
         hash = `gbpolsultanrsx`,
     },
     gbpoltahomagt = {
-        spawnName = 'gbpoltahomagt',
         name = 'Tahoma GT Police',
         brand = 'Declasse', 
         model = 'gbpoltahomagt',
@@ -450,7 +405,6 @@ return {
         hash = `gbpoltahomagt`,
     },
     gbpoltr3s = {
-        spawnName = 'gbpoltr3s',
         name = 'TR3-S Police',
         brand = 'Progen', 
         model = 'gbpoltr3s',
@@ -460,7 +414,6 @@ return {
         hash = `gbpoltr3s`,
     },
     gbpolturismogt = {
-        spawnName = 'gbpolturismogt',
         name = 'Turismo GT Police',
         brand = 'Grotti',
         model = 'gbpolturismogt',
@@ -470,7 +423,6 @@ return {
         hash = `gbpolturismogt`,
     },
     gbprospero = {
-        spawnName = 'gbprospero',
         name = 'Prospero',
         brand = 'Pegassi', 
         model = 'gbprospero',
@@ -480,7 +432,6 @@ return {
         hash = `gbprospero`,
     },
     gbraidillon = {
-        spawnName = 'gbraidillon',
         name = 'Raidillon',
         brand = 'Toundra', 
         model = 'gbraidillon',
@@ -490,7 +441,6 @@ return {
         hash = `gbraidillon`,
     },
     gbronin = {
-        spawnName = 'gbronin',
         name = 'Ronin',
         brand = 'Emperor', 
         model = 'gbronin',
@@ -500,7 +450,6 @@ return {
         hash = `gbronin`,
     },
     gbsapphire = {
-        spawnName = 'gbsapphire',
         name = 'Sapphire',
         brand = 'Enus', 
         model = 'gbsapphire',
@@ -510,7 +459,6 @@ return {
         hash = `gbsapphire`,
     },
     gbschlagenr = {
-        spawnName = 'gbschlagenr',
         name = 'Schlagen-R',
         brand = 'Benefactor', 
         model = 'gbschlagenr',
@@ -520,7 +468,6 @@ return {
         hash = `gbschlagenr`,
     },
     gbschlagensp = {
-        spawnName = 'gbschlagensp',
         name = 'Schlagen-SP',
         brand = 'Benefactor',
         model = 'gbschlagensp',
@@ -530,7 +477,6 @@ return {
         hash = `gbschlagensp`,
     },
     gbschrauber = {
-        spawnName = 'gbschrauber',
         name = 'Schrauber',
         brand = 'Benefactor', 
         model = 'gbschrauber',
@@ -540,7 +486,6 @@ return {
         hash = `gbschrauber`,
     },
     gbschwartzers = {
-        spawnName = 'gbschwartzers',
         name = 'Schwartzer S',
         brand = 'Benefactor', 
         model = 'gbschwartzers',
@@ -550,7 +495,6 @@ return {
         hash = `gbschwartzers`,
     },
     gbsentinelgts = {
-        spawnName = 'gbsentinelgts',
         name = 'Senrinel GTS',
         brand = 'Ubermacht', 
         model = 'gbsentinelgts',
@@ -560,7 +504,6 @@ return {
         hash = `gbsentinelgts`,
     },
     gbsidewinder = {
-        spawnName = 'gbsidewinder',
         name = 'Sidewinder',
         brand = 'Maxwell', 
         model = 'gbsidewinder',
@@ -570,7 +513,6 @@ return {
         hash = `gbsidewinder`,
     },
     gbsolace = {
-        spawnName = 'gbsolace',
         name = 'Solace',
         brand = 'Dewbauchee', 
         model = 'gbsolace',
@@ -580,7 +522,6 @@ return {
         hash = `gbsolace`,
     },
     gbsolacev = {
-        spawnName = 'gbsolacev',
         name = 'Solace Vitesse',
         brand = 'Dewbauchee', 
         model = 'gbsolacev',
@@ -590,7 +531,6 @@ return {
         hash = `gbsolacev`,
     },
     gbstanierle = {
-        spawnName = 'gbstanierle',
         name = 'Stainer LE',
         brand = 'Vapid',
         model = 'gbstanierle',
@@ -600,7 +540,6 @@ return {
         hash = `gbstanierle`,
     },
     gbstarlight = {
-        spawnName = 'gbstarlight',
         name = 'Starlight',
         brand = 'Vulcar', 
         model = 'gbstarlight',
@@ -610,7 +549,6 @@ return {
         hash = `gbstarlight`,
     },
     gbsultanrsx = {
-        spawnName = 'gbsultanrsx',
         name = 'Sultan RSX',
         brand = 'Karin', 
         model = 'gbsultanrsx',
@@ -620,7 +558,6 @@ return {
         hash = `gbsultanrsx`,
     },
     gbtahomagt = {
-        spawnName = 'gbtahomagt',
         name = 'Tahoma GT',
         brand = 'Declasse',
         model = 'gbtahomagt',
@@ -630,7 +567,6 @@ return {
         hash = `gbtahomagt`,
     },
     gbtaxiargento7f = {
-        spawnName = 'gbtaxiargento7f',
         name = 'Argento 7F Taxi',
         brand = 'Obey', 
         model = 'gbtaxiargento7f',
@@ -640,7 +576,6 @@ return {
         hash = `gbtaxiargento7f`,
     },
     gbtaxieon = {
-        spawnName = 'gbtaxieon',
         name = 'Eon Taxi',
         brand = 'Coil',
         model = 'gbtaxieon',
@@ -650,7 +585,6 @@ return {
         hash = `gbtaxieon`,
     },
     gbtaxistanierle = {
-        spawnName = 'gbtaxistanierle',
         name = 'Stainer LE Taxi',
         brand = 'Vapid',
         model = 'gbtaxistanierle',
@@ -660,7 +594,6 @@ return {
         hash = `gbtaxistanierle`,
     },
     gbtaxistarlight = {
-        spawnName = 'gbtaxistarlight',
         name = 'Starlight Taxi',
         brand = 'Vulcar',
         model = 'gbtaxistarlight',
@@ -670,7 +603,6 @@ return {
         hash = `gbtaxistarlight`,
     },
     gbtenfr = {
-        spawnName = 'gbtenfr',
         name = 'Tenf R',
         brand = 'Obey', 
         model = 'gbtenfr',
@@ -680,7 +612,6 @@ return {
         hash = `gbtenfr`,
     },
     gbterrorizer = {
-        spawnName = 'gbterrorizer',
         name = 'Terrorizer',
         brand = 'HVY', 
         model = 'gbterrorizer',
@@ -690,7 +621,6 @@ return {
         hash = `gbterrorizer`,
     },
     gbtr3s = {
-        spawnName = 'gbtr3s',
         name = 'TR3-S',
         brand = 'Progen', 
         model = 'gbtr3s',
@@ -700,7 +630,6 @@ return {
         hash = `gbtr3s`,
     },
     gbturismogt = {
-        spawnName = 'gbturismogt',
         name = 'Turismo GT',
         brand = 'Grotti',
         model = 'gbturismogt',
@@ -710,7 +639,6 @@ return {
         hash = `gbturismogt`,
     },
     gbturismogts = {
-        spawnName = 'gbturismogts',
         name = 'Turismo GTS',
         brand = 'Grotti',
         model = 'gbturismogts',
@@ -720,7 +648,6 @@ return {
         hash = `gbturismogts`,
     },
     gbvivant = {
-        spawnName = 'gbvivant',
         name = 'Vivant',
         brand = 'Bordeaux', 
         model = 'gbvivant',
@@ -730,7 +657,6 @@ return {
         hash = `gbvivant`,
     },
     gbvivantgrb = {
-        spawnName = 'gbvivantgrb',
         name = 'Vivant GRB',
         brand = 'Bordeaux', 
         model = 'gbvivantgrb',
@@ -740,7 +666,6 @@ return {
         hash = `gbvivantgrb`,
     },
     gbvoyager = {
-        spawnName = 'gbvoyager',
         name = 'Voyager 6x4-T',
         brand = 'MTL', 
         model = 'gbvoyager',
@@ -750,7 +675,6 @@ return {
         hash = `gbvoyager`,
     },
     gbvoyager2 = {
-        spawnName = 'gbvoyager2',
         name = 'Voyager 4x2-T ',
         brand = 'MTL', 
         model = 'gbvoyager2',
@@ -760,7 +684,6 @@ return {
         hash = `gbvoyager2`,
     },
     gbvoyagerb = {
-        spawnName = 'gbvoyagerb',
         name = 'Voyager 6x4-B',
         brand = 'MTL', 
         model = 'gbvoyagerb',
@@ -770,7 +693,6 @@ return {
         hash = `gbvoyagerb`,
     },
     gbvoyagerb2 = {
-        spawnName = 'gbvoyagerb2',
         name = 'Voyager 4x2-B',
         brand = 'MTL', 
         model = 'gbvoyagerb2',
@@ -780,7 +702,6 @@ return {
         hash = `gbvoyagerb2`,
     },
     gbvoyagerg = {
-        spawnName = 'gbvoyagerg',
         name = 'Voyager Trash Truck',
         brand = 'MTL', 
         model = 'gbvoyagerg',
@@ -790,7 +711,6 @@ return {
         hash = `gbvoyagerg`,
     },
     gbvoyagerh = {
-        spawnName = 'gbvoyagerh',
         name = 'Voyager 6x2-H',
         brand = 'MTL', 
         model = 'gbvoyagerh',
